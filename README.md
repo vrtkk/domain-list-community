@@ -2,7 +2,7 @@
 
 This project manages a list of domains, to be used as geosites for routing purpose in Project V.
 
-## Purpose of this project
+## Purpose of this project 
 
 This project is not opinionated. In other words, it does NOT endorse, claim or imply that a domain should be blocked or proxied. It can be used to generate routing rules on demand.
 
